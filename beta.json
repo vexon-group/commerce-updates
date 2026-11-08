@@ -1,8 +1,18 @@
 {
   "channel": "beta",
-  "generatedAt": "2026-11-08T01:39:19.229Z",
+  "generatedAt": "2026-11-08T03:22:30.123Z",
   "image": "ghcr.io/vexon-group/commerce",
   "versions": [
+    {
+      "version": "v1.10.0-beta.15",
+      "publishedAt": "2026-11-08T03:21:34.000Z",
+      "notesUrl": "https://commerce.vexon.co/releases/v1.10.0-beta.15",
+      "visual": true,
+      "destructiveMigration": false,
+      "dataMigrations": [],
+      "imageDigest": "sha256:584a0af44d43e22f016f818b202514d9283b75f2cecfe7964763a28eb55073df",
+      "commit": "b86e8a38b9580fccd70e7099c289aa27fbba5576"
+    },
     {
       "version": "v1.10.0-beta.14",
       "publishedAt": "2026-11-08T01:38:28.000Z",
